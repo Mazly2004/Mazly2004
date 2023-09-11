@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mazly2004
-- 👀 I’m interested in Artificial Intelligence and Machine learni 
+- 👀 I’m interested in Artificial Intelligence and Machine learning
 - 🌱 I’m currently learning Python for Machine Learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on my email -- olivermazorodze1@gmail.com
