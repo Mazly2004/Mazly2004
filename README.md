@@ -45,8 +45,3 @@ where software meets hardware, from C++ filters and ROS 2 nodes to microcontroll
 🇿🇼 Shona &nbsp; <img src="https://img.shields.io/badge/Native-00C853?style=flat-square"/>
 
 ---
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mazly2004&theme=tokyonight&hide_border=true"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00587a,50:0f3057,100:1a0033&height=100&section=footer" width="100%"/>
