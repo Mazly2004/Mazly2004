@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:0f3057,100:00587a&height=220&section=header&text=Oliver%20Mazorodze&fontSize=60&fontColor=ffffff&desc=Robotics%20%2F%20AI%20%26%20ML%20%2F%20Embedded&descSize=22&descAlignY=68&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:0f3057,100:00587a&height=220&section=header&text=Oliver%20Mazorodze&fontSize=60&fontColor=ffffff&desc=Robotics%20%C2%B7%20AI%20and%20ML%20%C2%B7%20Embedded&descSize=22&descAlignY=68&animation=fadeIn" width="100%"/>
 
 <!-- Badges -->
 <p align="center">
