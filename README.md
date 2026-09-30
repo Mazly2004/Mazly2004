@@ -1,47 +1,61 @@
-<!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Oliver%20Mazorodze&fontSize=48&fontColor=ffffff&desc=Robotics%20%C2%B7%20State%20Estimation%20%C2%B7%20Perception&descAlignY=65&animation=fadeIn" width="100%"/>
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:0f3057,100:00587a&height=220&section=header&text=Oliver%20Mazorodze&fontSize=60&fontColor=ffffff&desc=Robotics%20%2F%20AI%20%26%20ML%20%2F%20Embedded&descSize=22&descAlignY=68&animation=fadeIn" width="100%"/>
 
-<!-- Typing animation -->
+<!-- Badges -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+an+in-pipe+inspection+robot+%F0%9F%A4%96;Kalman+filters+%7C+EKF+%7C+Sensor+fusion;ROS+2+%2B+C%2B%2B+%2B+Deep+Learning;AI+%26+ML+%40+University+of+Zimbabwe" />
+  <a href="mailto:olivermazorodze1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Mazly2004&label=Profile%20views&color=7B2FBE&style=flat-square"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🟢_Open_to_internships-7B2FBE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-Robotics_%26_State_Estimation-00587a?style=flat-square&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Harare_%7C_UTC_+2-333333?style=flat-square"/>
 </p>
 
-## 🤖 About me
-AI & ML student at the University of Zimbabwe, focused on **robotics**:
-state estimation, sensor fusion, and perception for autonomous systems.
+## About
+AI & Machine Learning student at the University of Zimbabwe, focused on **robotics**:
+state estimation, sensor fusion, and perception for autonomous systems. I like working
+where software meets hardware, from C++ filters and ROS 2 nodes to microcontrollers and deep learning.
 
-## 🔧 Currently building
-An **in-pipe inspection robot** that knows where it is and what it's looking at:
+⌖ **Location** &nbsp; Harare, Zimbabwe<br/>
+◎ **Education** &nbsp; BSc Artificial Intelligence & Machine Learning, University of Zimbabwe<br/>
+⚙ **Focus** &nbsp; Robotics · Sensor fusion · Computer vision<br/>
+⟳ **Learning** &nbsp; Kalman filters & EKF, ROS 2, modern C++<br/>
 
-```mermaid
-flowchart LR
-    IMU[IMU] --> EKF[EKF Localization]
-    ODOM[Wheel odometry] --> EKF
-    TETHER[Tether length] --> EKF
-    CAM[Camera] --> DL[Defect detection<br/>deep learning]
-    EKF -->|position ± uncertainty| MAP[Defect map<br/>crack at 23.4 m ± 0.2 m]
-    DL --> MAP
-```
+✦ **Fun fact** &nbsp; YOUR_FUN_FACT
 
-## 🛠️ Tech
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+---
 
-## 🤝 Team projects
-- **[Esp32HydroponicProject](https://github.com/Mazly2004/Esp32HydroponicProject)**: ESP32 hydroponics monitoring (with @KeithAGang). I worked on …
-- **[SwamoraPlantIdentification](https://github.com/Mazly2004/SwamoraPlantIdentification)**: plant identification (with @KeithAGang). I worked on …
+## Stack
 
-## 🐍 Contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mazly2004/Mazly2004/output/github-snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/Mazly2004/Mazly2004/output/github-snake.svg" />
-</picture>
+#### Languages
+<img src="https://skillicons.dev/icons?i=cpp,c,python,rust,java&theme=dark" />
 
-## 📫 Contact
-[Email](mailto:olivermazorodze1@gmail.com) · [LinkedIn](YOUR_LINKEDIN_URL)
+#### Robotics & Embedded
+<img src="https://skillicons.dev/icons?i=ros,arduino,raspberrypi,cmake&theme=dark" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+#### AI & Vision
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
+
+#### Tools & DevOps
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,githubactions,vscode&theme=dark" />
+
+---
+
+## Languages
+🇬🇧 English &nbsp; <img src="https://img.shields.io/badge/Fluent-00C853?style=flat-square"/><br/>
+🇿🇼 Shona &nbsp; <img src="https://img.shields.io/badge/Native-00C853?style=flat-square"/>
+
+---
+
+## GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mazly2004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazly2004&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mazly2004&theme=tokyonight&hide_border=true"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00587a,50:0f3057,100:1a0033&height=100&section=footer" width="100%"/>
