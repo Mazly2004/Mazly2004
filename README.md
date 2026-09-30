@@ -14,16 +14,13 @@
 </p>
 
 ## About
-AI & Machine Learning student at the University of Zimbabwe, focused on **robotics**:
+AI & Machine Learning student, focused on **robotics**:
 state estimation, sensor fusion, and perception for autonomous systems. I like working
 where software meets hardware, from C++ filters and ROS 2 nodes to microcontrollers and deep learning.
 
 ⌖ **Location** &nbsp; Harare, Zimbabwe<br/>
-◎ **Education** &nbsp; BSc Artificial Intelligence & Machine Learning, University of Zimbabwe<br/>
 ⚙ **Focus** &nbsp; Robotics · Sensor fusion · Computer vision<br/>
 ⟳ **Learning** &nbsp; Kalman filters & EKF, ROS 2, modern C++<br/>
-
-✦ **Fun fact** &nbsp; YOUR_FUN_FACT
 
 ---
 
@@ -48,12 +45,6 @@ where software meets hardware, from C++ filters and ROS 2 nodes to microcontroll
 🇿🇼 Shona &nbsp; <img src="https://img.shields.io/badge/Native-00C853?style=flat-square"/>
 
 ---
-
-## GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mazly2004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazly2004&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mazly2004&theme=tokyonight&hide_border=true"/>
 </p>
