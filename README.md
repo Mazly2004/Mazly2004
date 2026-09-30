@@ -4,7 +4,7 @@
 <!-- Badges -->
 <p align="center">
   <a href="mailto:olivermazorodze1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/oliver-mazorodze-814088270"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=Mazly2004&label=Profile%20views&color=7B2FBE&style=flat-square"/>
 </p>
 <p align="center">
